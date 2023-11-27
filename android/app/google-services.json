@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1085342532706",
+    "project_id": "wechat-aab2b",
+    "storage_bucket": "wechat-aab2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085342532706:android:bab3f0c8866e755e47fd3b",
+        "android_client_info": {
+          "package_name": "com.example.trying_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-5goV2wmgBMryMND0Hxyp1buFChWKsv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
